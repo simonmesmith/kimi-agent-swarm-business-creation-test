@@ -1,0 +1,37 @@
+Negative_Keyword,Match_Type,Reason
+amazon,Negative,"Shopping intent, not supplement search"
+walmart,Negative,"Shopping intent, not supplement search"
+costco,Negative,"Shopping intent, not supplement search"
+target,Negative,"Shopping intent, not supplement search"
+what is magnesium,Negative,"Too informational, low purchase intent"
+magnesium deficiency symptoms,Negative,"Informational, not purchase-ready"
+foods high in magnesium,Negative,"Looking for food sources, not supplements"
+magnesium rich foods,Negative,"Dietary sources, not supplements"
+magnesium oil,Negative,"Topical product, not oral supplement"
+magnesium spray,Negative,"Topical product, not oral supplement"
+magnesium lotion,Negative,"Topical product, not oral supplement"
+magnesium bath,Negative,"Epsom salt baths, not oral supplement"
+epsom salt,Negative,"Bath product, not oral supplement"
+magnesium for constipation,Negative,"Different use case, may affect targeting"
+magnesium for leg cramps,Negative,Different use case
+magnesium for migraines,Negative,Different use case
+magnesium for heart,Negative,Different use case
+magnesium for muscles,Negative,Different use case
+free,Negative,Low commercial intent
+cheap,Negative,"Price-focused, not premium product fit"
+discount,Negative,"Price-focused, may hurt margins"
+coupon,Negative,"Coupon seekers, lower LTV"
+sample,Negative,"Sample seekers, not buyers"
+recipe,Negative,Not supplement purchase intent
+homemade,Negative,"DIY intent, not buyer"
+diy,Negative,"DIY intent, not buyer"
+kids,Negative,"Children's products, different market"
+children,Negative,"Children's products, different market"
+toddler,Negative,"Children's products, different market"
+baby,Negative,"Children's products, different market"
+dog,Negative,"Pet products, not human supplement"
+cat,Negative,"Pet products, not human supplement"
+pet,Negative,"Pet products, not human supplement"
+job,Negative,Employment search
+career,Negative,Employment search
+hiring,Negative,Employment search

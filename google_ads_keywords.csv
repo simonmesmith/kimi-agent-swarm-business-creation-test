@@ -1,0 +1,118 @@
+Campaign,Ad_Group,Keyword,Match_Type,Status,Est_CPC,Max_CPC,Monthly_Search_Volume,Funnel_Stage,Quality_Score_Target,Landing_Page
+Search - Magnesium Sleep,Sleep Problems,trouble sleeping,Exact,Enabled,2.85,3.42,12100,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,trouble sleeping,Phrase,Enabled,2.65,3.1799999999999997,12100,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,can't sleep,Exact,Enabled,3.2,3.84,9900,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,can't sleep,Phrase,Enabled,2.95,3.54,9900,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep aid,Exact,Enabled,4.5,5.3999999999999995,33100,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep aid,Phrase,Enabled,4.1,4.919999999999999,33100,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,natural sleep aid,Exact,Enabled,3.8,4.56,5400,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,natural sleep aid,Phrase,Enabled,3.45,4.14,5400,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep supplements,Exact,Enabled,3.25,3.9,8100,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep supplements,Phrase,Enabled,2.95,3.54,8100,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,help me sleep,Exact,Enabled,2.75,3.3,4400,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,help me sleep,Phrase,Enabled,2.5,3.0,4400,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,fall asleep faster,Exact,Enabled,2.9,3.48,3600,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,fall asleep faster,Phrase,Enabled,2.65,3.1799999999999997,3600,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,insomnia relief,Exact,Enabled,3.4,4.08,2900,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,insomnia relief,Phrase,Enabled,3.1,3.7199999999999998,2900,Decision,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep better,Exact,Enabled,2.55,3.0599999999999996,7200,Consideration,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep better,Phrase,Enabled,2.3,2.76,7200,Consideration,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,sleep support,Exact,Enabled,2.8,3.36,1800,Consideration,7,/landing-page
+Search - Magnesium Sleep,Sleep Problems,deep sleep supplement,Exact,Enabled,3.15,3.78,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin alternative,Exact,Enabled,3.2,3.84,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin alternative,Phrase,Enabled,2.9,3.48,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin free sleep aid,Exact,Enabled,3.45,4.14,880,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin free sleep aid,Phrase,Enabled,3.15,3.78,880,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin side effects,Exact,Enabled,2.4,2.88,5400,Consideration,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin side effects,Phrase,Enabled,2.15,2.5799999999999996,5400,Consideration,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,alternative to melatonin,Exact,Enabled,3.1,3.7199999999999998,1300,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,alternative to melatonin,Phrase,Enabled,2.8,3.36,1300,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,non melatonin sleep aid,Exact,Enabled,3.35,4.02,720,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,non melatonin sleep aid,Phrase,Enabled,3.05,3.6599999999999997,720,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,sleep aid without melatonin,Exact,Enabled,3.5,4.2,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,sleep aid without melatonin,Phrase,Enabled,3.2,3.84,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,why melatonin doesn't work,Exact,Enabled,2.2,2.64,480,Awareness,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin tolerance,Exact,Enabled,2.35,2.82,590,Consideration,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin addiction,Exact,Enabled,2.5,3.0,720,Consideration,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,natural alternative to melatonin,Exact,Enabled,3.25,3.9,520,Decision,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,stop taking melatonin,Exact,Enabled,2.15,2.5799999999999996,390,Consideration,7,/landing-page
+Search - Magnesium Sleep,Melatonin Alternatives,melatonin makes me groggy,Exact,Enabled,1.95,2.34,260,Awareness,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium sleep,Exact,Enabled,2.95,3.54,4400,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium sleep,Phrase,Enabled,2.7,3.24,4400,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,best magnesium for sleep,Exact,Enabled,3.4,4.08,2900,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,best magnesium for sleep,Phrase,Enabled,3.1,3.7199999999999998,2900,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium glycinate sleep,Exact,Enabled,3.15,3.78,1600,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium glycinate sleep,Phrase,Enabled,2.85,3.42,1600,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium threonate,Exact,Enabled,3.8,4.56,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium threonate,Phrase,Enabled,3.5,4.2,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium l threonate,Exact,Enabled,3.9,4.68,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium l threonate,Phrase,Enabled,3.6,4.32,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium for insomnia,Exact,Enabled,3.25,3.9,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium for insomnia,Phrase,Enabled,2.95,3.54,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium sleep aid,Exact,Enabled,3.55,4.26,880,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium sleep aid,Phrase,Enabled,3.25,3.9,880,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,types of magnesium for sleep,Exact,Enabled,2.75,3.3,720,Consideration,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium bisglycinate sleep,Exact,Enabled,3.05,3.6599999999999997,480,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium citrate sleep,Exact,Enabled,2.85,3.42,590,Consideration,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium calm sleep,Exact,Enabled,2.95,3.54,520,Decision,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,which magnesium helps sleep,Exact,Enabled,2.8,3.36,650,Consideration,7,/landing-page
+Search - Magnesium Sleep,Magnesium for Sleep,magnesium before bed,Exact,Enabled,2.6,3.12,880,Consideration,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,brain fog,Exact,Enabled,2.45,2.94,12100,Awareness,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,brain fog,Phrase,Enabled,2.2,2.64,12100,Awareness,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,brain fog supplement,Exact,Enabled,3.15,3.78,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,brain fog supplement,Phrase,Enabled,2.85,3.42,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,focus supplement,Exact,Enabled,3.8,4.56,8100,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,focus supplement,Phrase,Enabled,3.45,4.14,8100,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,cognitive enhancement,Exact,Enabled,4.2,5.04,4400,Consideration,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,cognitive enhancement,Phrase,Enabled,3.85,4.62,4400,Consideration,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,mental clarity supplement,Exact,Enabled,3.55,4.26,2200,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,mental clarity supplement,Phrase,Enabled,3.25,3.9,2200,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,memory supplement,Exact,Enabled,4.1,4.919999999999999,9900,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,memory supplement,Phrase,Enabled,3.75,4.5,9900,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,nootropic supplement,Exact,Enabled,4.5,5.3999999999999995,3600,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,nootropic supplement,Phrase,Enabled,4.15,4.98,3600,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,clear brain fog,Exact,Enabled,2.75,3.3,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,clear brain fog,Phrase,Enabled,2.5,3.0,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,concentration supplement,Exact,Enabled,3.65,4.38,1800,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,brain health supplement,Exact,Enabled,3.9,4.68,2900,Consideration,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,cognitive function supplement,Exact,Enabled,3.75,4.5,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,improve focus and concentration,Exact,Enabled,3.4,4.08,1600,Decision,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,magnesium for brain,Exact,Enabled,2.95,3.54,880,Consideration,7,/landing-page
+Search - Magnesium Sleep,Cognitive Enhancement,magnesium cognitive function,Exact,Enabled,3.25,3.9,520,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,stress relief,Exact,Enabled,3.25,3.9,14800,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,stress relief,Phrase,Enabled,2.95,3.54,14800,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,stress relief supplement,Exact,Enabled,3.65,4.38,2200,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,stress relief supplement,Phrase,Enabled,3.35,4.02,2200,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,cortisol reducer,Exact,Enabled,3.4,4.08,1300,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,cortisol reducer,Phrase,Enabled,3.1,3.7199999999999998,1300,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,anxiety supplement,Exact,Enabled,4.2,5.04,5400,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,anxiety supplement,Phrase,Enabled,3.85,4.62,5400,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,natural stress relief,Exact,Enabled,3.15,3.78,3600,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,natural stress relief,Phrase,Enabled,2.85,3.42,3600,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,reduce cortisol,Exact,Enabled,3.2,3.84,1900,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,reduce cortisol,Phrase,Enabled,2.9,3.48,1900,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,magnesium for anxiety,Exact,Enabled,3.35,4.02,1600,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,magnesium for anxiety,Phrase,Enabled,3.05,3.6599999999999997,1600,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,magnesium for stress,Exact,Enabled,3.1,3.7199999999999998,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,magnesium for stress,Phrase,Enabled,2.8,3.36,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,calming supplement,Exact,Enabled,3.45,4.14,1800,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,calming supplement,Phrase,Enabled,3.15,3.78,1800,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,relaxation supplement,Exact,Enabled,3.3,3.9599999999999995,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,work stress relief,Exact,Enabled,2.85,3.42,880,Awareness,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,evening wind down,Exact,Enabled,2.4,2.88,520,Consideration,7,/landing-page
+Search - Magnesium Sleep,Stress & Anxiety,stress and sleep,Exact,Enabled,2.7,3.24,1100,Consideration,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,magnesium breakthrough,Exact,Enabled,4.5,5.3999999999999995,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,magnesium breakthrough,Phrase,Enabled,4.15,4.98,1900,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,bioptimizers magnesium,Exact,Enabled,4.2,5.04,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,nature made magnesium,Exact,Enabled,3.8,4.56,2200,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,doctors best magnesium,Exact,Enabled,3.9,4.68,1600,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,thorne magnesium,Exact,Enabled,4.1,4.919999999999999,880,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,life extension magnesium,Exact,Enabled,3.95,4.74,720,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,pure encapsulations magnesium,Exact,Enabled,4.05,4.859999999999999,590,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,now foods magnesium,Exact,Enabled,3.65,4.38,1100,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,jigsaw magnesium,Exact,Enabled,3.85,4.62,480,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,magnesium l threonate reviews,Exact,Enabled,3.45,4.14,880,Consideration,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,best magnesium supplement brand,Exact,Enabled,3.7,4.44,1400,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,premium magnesium supplement,Exact,Enabled,3.95,4.74,520,Decision,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,magnesium supplement comparison,Exact,Enabled,3.25,3.9,650,Consideration,7,/landing-page
+Search - Magnesium Sleep,Brand & Competitor,magnesium l threonate vs glycinate,Exact,Enabled,3.15,3.78,720,Consideration,7,/landing-page

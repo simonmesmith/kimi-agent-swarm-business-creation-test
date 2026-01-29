@@ -2,6 +2,8 @@
 
 This repository contains outputs from Kimi Agent Swarm's attempts to create a business, which I wrote about on X.
 
+Note that while most of the output files were completed in a single Agent Swarm execution, I did have to prompt for a fix to the investor presentation as it had a bug in the code that prevented it from rendering properly.
+
 ## The Prompt
 
 Build a market-ready, profitable Consumer Health company from scratch. Deploy specialized agents to execute the following phases.
